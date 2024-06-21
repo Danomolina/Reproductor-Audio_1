@@ -64,7 +64,7 @@ const MediaPlayer = () => {
         ))}
       </ul>
       <div className="controls">
-        <button onClick={prevSong}>&#9664;</button>
+        <button onClick={prevSong}>&#9664;</button> 
         <button onClick={playPause}>{isPlaying ? "Pause" : "Play"}</button>
         <button onClick={nextSong}>&#9654;</button>
       </div>

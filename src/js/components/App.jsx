@@ -1,4 +1,3 @@
-// src/js/components/App.jsx
 import React from "react";
 import MediaPlayer from "./MediaPlayer";
 
